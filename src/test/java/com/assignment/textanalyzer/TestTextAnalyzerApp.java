@@ -2,6 +2,7 @@ package com.assignment.textanalyzer;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.*;
 
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
